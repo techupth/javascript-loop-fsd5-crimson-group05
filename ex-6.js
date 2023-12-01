@@ -8,4 +8,3 @@ for (let i = 0; i < companyName.length ;i++) {
 }
 
 console.log(reversedCompanyName);
-add
